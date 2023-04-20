@@ -1,6 +1,4 @@
-//for loops consits  of 3 optional expressions,
-//for loops are commonly used to run code a set 
-//number of times.
+
 //you can use the break to exit the loop early,
 //before the condition expression evaluates to false
 //Iterate through the integers from 0-8
@@ -8,16 +6,6 @@ for(let i =0;i<9;i++){
     console.log(i);
 }
 
-// for(let i =1;i<10;+2){
-//     if(i ==7){
-//         break;
-//     }
-//     console.log('Total elephants'+i)
-// }
-
-// Initialization: let i = 1; initializes the loop counter i to the value of 1.
-// Condition: i <= 10; specifies the condition for the loop to continue running as long as i is less than or equal to 10.
-// Iteration: i++ increments the value of i by 1 after each iteration of the loop.
 
 
 
@@ -80,18 +68,7 @@ function info(){
 
 }
 info();
-// Write a function that takes an array of strings and 
-// returns the total number of characters in all the 
-// strings using a for loop. 
 
-// let comment=["Ann","Becky","Paisley","Shirleen"]
-
-// function sentence(){
-//     for(let i=0;i<comment.length;++i){
-//         console.log(comment.charAt())
-//     }
-// }
-// sentence()
 
 //multiplication
 let results =[59,80,70,60,50,99]
@@ -127,21 +104,6 @@ function conditions(){
 }
 conditions()
 
-// Write a function that takes an array of numbers
-// and returns the largest number in the array using
-//  a for loop
-// let question =[30,60,90,107,96]
-
-// function quiz(question){
-//     for(let i=0;i<question.length;++i){
-//         let largest=question.sort();
-        
-        
-//     }
-//     return quiz()
-// }
-// console.log(quiz(question))
-
 // How can you use a for loop to iterate 
 // over an array backwards in JavaScript? 
 let statement =[89,78,90,17,84]
@@ -154,9 +116,7 @@ function word(){
 }
 word();
 
-// How can you use a for loop to iterate over
-// an array and delete specific elements in 
-//  JavaScript?
+
 
 
 
